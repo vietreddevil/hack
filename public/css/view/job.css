@@ -1,0 +1,38 @@
+#sectionsNav {
+    background-color: rgba(69, 68, 68, 1) !important;
+    padding-top: 0 !important;
+}
+
+pre {
+    white-space: pre-wrap;      
+    white-space: -moz-pre-wrap;  
+    white-space: -pre-wrap;      
+    white-space: -o-pre-wrap;    
+    word-wrap: break-word;       
+}
+
+.title, .apply {
+    text-align: center;
+}
+.title h2{
+    font-weight: bold;
+}
+.title span {
+    color: #808080;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.job-desc pre{
+    padding: 20px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+}
+.modal-backdrop {
+    display: none;
+}
+.main-raised {
+    box-shadow: none !important;
+}
+body {
+    background-color: white;
+}
